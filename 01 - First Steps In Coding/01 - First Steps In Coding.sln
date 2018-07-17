@@ -1,0 +1,65 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Hello SoftUni", "Exercises\01. Hello SoftUni\01. Hello SoftUni.csproj", "{06171E64-ECAA-4A6F-94A0-65C6D1046B9D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Expression", "Exercises\02. Expression\02. Expression.csproj", "{09EFBE4F-186F-4ABC-9734-2E50FA292EF9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Nums 1 to 20", "Exercises\03. Nums 1 to 20\03. Nums 1 to 20.csproj", "{BB0DA869-661D-4DAF-B6C1-F1D0CC314403}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Triangle of 55 Stars", "Exercises\04. Triangle of 55 Stars\04. Triangle of 55 Stars.csproj", "{978786A6-A31F-465E-8F84-4A2E5EA4CBC0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Rectangle Area", "Exercises\05. Rectangle Area\05. Rectangle Area.csproj", "{AB34DD36-6580-48A3-ACF1-1AC8AF96D61B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. Square of Stars", "Exercises\06. Square of Stars\06. Square of Stars.csproj", "{2717C312-FD4B-409D-867C-A104298029D4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Exercises", "Exercises", "{46160957-473B-4F5E-A5EE-A3D67FD89CDA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{06171E64-ECAA-4A6F-94A0-65C6D1046B9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06171E64-ECAA-4A6F-94A0-65C6D1046B9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06171E64-ECAA-4A6F-94A0-65C6D1046B9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06171E64-ECAA-4A6F-94A0-65C6D1046B9D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09EFBE4F-186F-4ABC-9734-2E50FA292EF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09EFBE4F-186F-4ABC-9734-2E50FA292EF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09EFBE4F-186F-4ABC-9734-2E50FA292EF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09EFBE4F-186F-4ABC-9734-2E50FA292EF9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB0DA869-661D-4DAF-B6C1-F1D0CC314403}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB0DA869-661D-4DAF-B6C1-F1D0CC314403}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB0DA869-661D-4DAF-B6C1-F1D0CC314403}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB0DA869-661D-4DAF-B6C1-F1D0CC314403}.Release|Any CPU.Build.0 = Release|Any CPU
+		{978786A6-A31F-465E-8F84-4A2E5EA4CBC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{978786A6-A31F-465E-8F84-4A2E5EA4CBC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{978786A6-A31F-465E-8F84-4A2E5EA4CBC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{978786A6-A31F-465E-8F84-4A2E5EA4CBC0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB34DD36-6580-48A3-ACF1-1AC8AF96D61B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB34DD36-6580-48A3-ACF1-1AC8AF96D61B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB34DD36-6580-48A3-ACF1-1AC8AF96D61B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB34DD36-6580-48A3-ACF1-1AC8AF96D61B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2717C312-FD4B-409D-867C-A104298029D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2717C312-FD4B-409D-867C-A104298029D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2717C312-FD4B-409D-867C-A104298029D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2717C312-FD4B-409D-867C-A104298029D4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{06171E64-ECAA-4A6F-94A0-65C6D1046B9D} = {46160957-473B-4F5E-A5EE-A3D67FD89CDA}
+		{09EFBE4F-186F-4ABC-9734-2E50FA292EF9} = {46160957-473B-4F5E-A5EE-A3D67FD89CDA}
+		{BB0DA869-661D-4DAF-B6C1-F1D0CC314403} = {46160957-473B-4F5E-A5EE-A3D67FD89CDA}
+		{978786A6-A31F-465E-8F84-4A2E5EA4CBC0} = {46160957-473B-4F5E-A5EE-A3D67FD89CDA}
+		{AB34DD36-6580-48A3-ACF1-1AC8AF96D61B} = {46160957-473B-4F5E-A5EE-A3D67FD89CDA}
+		{2717C312-FD4B-409D-867C-A104298029D4} = {46160957-473B-4F5E-A5EE-A3D67FD89CDA}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4DE0D2A0-F70D-4771-A7AD-459B30F5095A}
+	EndGlobalSection
+EndGlobal
